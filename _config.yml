@@ -1,1 +1,8 @@
-theme: architect
+title: hh-t1 
+description: Team project page for team 1 ICS 414
+google_analytics:
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
