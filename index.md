@@ -1,3 +1,5 @@
+![ci-badge](https://github.com/hh-t1/hacc-hui-revamped/actions/workflows/ci.yml/badge.svg)
+
 ## Project Goals ##
 
 The goal for our project is to create a clean, interactive website for users who are participating in the Hawaii Annual Coding Challenge.
