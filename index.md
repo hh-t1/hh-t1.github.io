@@ -1,4 +1,4 @@
-![ci-badge](https://github.com/hh-t1/hacc-hui-revamped/actions/workflows/ci.yml/badge.svg)
+![ci-badge](https://github.com/hh-t1/hacc-hui-revamped/workflows/ci-hacc-hui/badge.svg)
 
 ## Project Goals ##
 
