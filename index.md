@@ -24,3 +24,5 @@ By the end we will have a functional website which fulfills all basic requiremen
 
 ## Mockup Pages ##
 
+* ### Landing Page
+![](images/Landing.png)
